@@ -210,7 +210,7 @@ select,
 select:not([multiple="multiple"]):focus,
 input:not(.cbi-button):focus,
 .cbi-dropdown:focus {
-	border-color: #09c;
+	border-color: #00a3e1;
 	border-color: var(--main-color);
 }
 
@@ -380,7 +380,7 @@ small {
 header {
 	color: #fff;
 	color: var(--header-color);
-	background: #09c;
+	background: #00a3e1;
 	background: var(--header-bg);
 }
 
@@ -577,7 +577,7 @@ body[class*="node-"] > .main > .main-left > .nav > .slide > .menu.active::before
 }
 
 .main > .main-left > .nav > .slide > .slide-menu > .active {
-	background-color: #09c;
+	background-color: #00a3e1;
 	background-color: var(--submenu-bg-hover-active);
 }
 
@@ -601,7 +601,7 @@ body[class*="node-"] > .main > .main-left > .nav > .slide > .menu.active::before
 }
 
 .main > .main-left > .nav > .slide > .slide-menu > .active:hover {
-	background-color: #09c;
+	background-color: #00a3e1;
 	background-color: var(--main-color);
 }
 
@@ -1094,7 +1094,7 @@ td > table > tbody > tr > td,
 
 .tabs > li[class~="active"],
 .tabs > li:hover {
-	border-bottom-color: #09c;
+	border-bottom-color: #00a3e1;
 	border-bottom-color: var(--main-color);
 }
 
@@ -1111,7 +1111,7 @@ td > table > tbody > tr > td,
 }
 
 .tabs > li[class~="active"] > a {
-	color: #09c;
+	color: #00a3e1;
 	color: var(--main-color);
 }
 
